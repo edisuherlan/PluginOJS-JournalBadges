@@ -1,0 +1,45 @@
+# Journal Badges
+# Author  : Edi Suherlan
+# Company : audhighasu.com
+# Contact : audhighasu@gmail.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Journal Badges\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.journalBadges.displayName"
+msgstr "Journal Badges"
+
+msgid "plugins.generic.journalBadges.description"
+msgstr "Shows accreditation badges (e.g. SINTA), indexes, and partner logos above the footer on every theme."
+
+msgid "plugins.generic.journalBadges.settings"
+msgstr "Badge settings"
+
+msgid "plugins.generic.journalBadges.settings.description"
+msgstr "Configure the accreditation and partner strip shown above the site footer. Dummy sample data is included so you can preview it on all themes."
+
+msgid "plugins.generic.journalBadges.settings.showFrontend"
+msgstr "Show badge strip on the public site"
+
+msgid "plugins.generic.journalBadges.settings.stripTitle"
+msgstr "Strip heading"
+
+msgid "plugins.generic.journalBadges.settings.stripTitle.default"
+msgstr "Accreditation & partners"
+
+msgid "plugins.generic.journalBadges.settings.badgesJson"
+msgstr "Badges (JSON)"
+
+msgid "plugins.generic.journalBadges.settings.badgesJson.description"
+msgstr "Array of objects with keys: id, label, url, kind (sinta|doaj|crossref|garuda|partner|custom), note. Leave empty and save to restore dummy data."
+
+msgid "plugins.generic.journalBadges.settings.restoreDummy"
+msgstr "Restore sample badges"
+
+msgid "plugins.generic.journalBadges.aria"
+msgstr "Journal accreditation and partners"

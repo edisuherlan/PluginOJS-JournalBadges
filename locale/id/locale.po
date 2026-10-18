@@ -1,0 +1,45 @@
+# Journal Badges
+# Author  : Edi Suherlan
+# Company : audhighasu.com
+# Contact : audhighasu@gmail.com
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Journal Badges\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.journalBadges.displayName"
+msgstr "Lencana Jurnal"
+
+msgid "plugins.generic.journalBadges.description"
+msgstr "Menampilkan lencana akreditasi (mis. SINTA), indeks, dan logo partner di atas footer pada semua theme."
+
+msgid "plugins.generic.journalBadges.settings"
+msgstr "Pengaturan lencana"
+
+msgid "plugins.generic.journalBadges.settings.description"
+msgstr "Atur strip akreditasi dan partner yang tampil di atas footer. Data contoh sudah disiapkan agar bisa dipratinjau di semua theme."
+
+msgid "plugins.generic.journalBadges.settings.showFrontend"
+msgstr "Tampilkan strip lencana di situs publik"
+
+msgid "plugins.generic.journalBadges.settings.stripTitle"
+msgstr "Judul strip"
+
+msgid "plugins.generic.journalBadges.settings.stripTitle.default"
+msgstr "Akreditasi & mitra"
+
+msgid "plugins.generic.journalBadges.settings.badgesJson"
+msgstr "Lencana (JSON)"
+
+msgid "plugins.generic.journalBadges.settings.badgesJson.description"
+msgstr "Array objek dengan kunci: id, label, url, kind (sinta|doaj|crossref|garuda|partner|custom), note. Kosongkan lalu simpan untuk mengembalikan data contoh."
+
+msgid "plugins.generic.journalBadges.settings.restoreDummy"
+msgstr "Pulihkan lencana contoh"
+
+msgid "plugins.generic.journalBadges.aria"
+msgstr "Akreditasi jurnal dan mitra"
